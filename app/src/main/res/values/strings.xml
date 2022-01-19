@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Texto de control</string>
+    <string name="toolbar_frag_hint">Escriba un texto</string>
+    <string name="toolbar_fragment_button">Cambiar tamaño</string>
+</resources>
